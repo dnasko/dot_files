@@ -1,2 +1,3 @@
-# dot_files
-Dot files when setting up a new environment
+# Dot Files
+
+Dot files when setting up a new environment.
